@@ -6,7 +6,7 @@
  * @package   MysqliDb
  * @author    Ambika Behera <ambika.behera@gmail.com>
  * @author    Jasobanta N Das <j100775@gmail.com>
- * @author    Alexander V. Butenko <a.butenka@gmail.com>
+ * 
  */
 
 class MysqliDb
